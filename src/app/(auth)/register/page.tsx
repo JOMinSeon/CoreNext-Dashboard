@@ -21,7 +21,7 @@ import {
 
 const positions = [
   { value: "ceo", label: "대표" },
-  { value: "director", label: "董事" },
+  { value: "director", label: "임원" },
   { value: "manager", label: "팀장" },
   { value: "assistant_manager", label: "대리" },
   { value: "staff", label: "사원" },

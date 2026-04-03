@@ -485,7 +485,7 @@ export default function QuotesPage() {
 
               <div className="grid gap-2">
                 <Label htmlFor="terms">결제조건</Label>
-                <Textarea id="terms" {...register("terms")} placeholder="결제條件 입력" rows={2} />
+                <Textarea id="terms" {...register("terms")} placeholder="결제조건 입력" rows={2} />
               </div>
 
               <div className="grid gap-2">
